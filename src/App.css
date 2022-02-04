@@ -1,0 +1,15 @@
+body{
+  background-color: #000000;
+  font-family: 'Poppins';
+}
+.MuiBox-root{
+  padding: 0px!important;
+}
+.App {
+  text-align: center;
+}
+.MuiTabPanel-root{
+  padding: 64px 0 0!important;
+}
+
+
